@@ -1,0 +1,7 @@
+.alert {
+  margin-top: 1rem;
+}
+
+.alert__title {
+  color: #e74c3c;
+}
